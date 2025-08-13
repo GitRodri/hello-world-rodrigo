@@ -12,3 +12,6 @@ Meu objetivo é aprender automação de testes e fundamentos web, montando um po
 - Ter um esqueleto simples de página, e entender como subir no GitHub Pages.
 
 **Hoje** (12/ago/2025): Criei e adicionei uma página index ao repositório. Contendo apenas contendo conteúdos simples de um currículo.
+
+**Próximo passo**:
+- Melhorar HTML com complementos de outras seções como habilidades, formação, etc.
