@@ -10,3 +10,6 @@ Meu objetivo é aprender automação de testes e fundamentos web, montando um po
 
 **Pra daqui a 1 semana**:
 - Ter um esqueleto simples de página, mostrando meus conhecimentos e projetos.
+
+**Próximo passo**:
+- Adicionar CSS página, com correções de texto e informações.
