@@ -16,4 +16,4 @@ Meu objetivo é aprender automação de testes e fundamentos web, montando um po
 
 **Hoje** (14/ago/2025): Criei um css inicial para a page do currículo. 
 
-**Hoje** (14/ago/2025): Adicionei e Aprimorei modulação de edições de texto e aparência da página. 
+**Hoje** (14/ago/2025): Adicionei e Aprimorei modulação de edições de texto e aparência da página. PS: Aprendi a escrever "Modularização" corretamente.
